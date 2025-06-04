@@ -3,3 +3,5 @@ Parrafo 2 desde main
 
 [COMMIT 6]
 Parrafo #1 desde user1
+[COMMIT 7]
+Parrafo #2 desde user1
